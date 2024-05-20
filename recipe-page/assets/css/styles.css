@@ -8,9 +8,9 @@
 
 @font-face {
 	font-family: "Outfit";
-	src: url("/assets/fonts/outfit/outfit-variable-font.woff2") format("woff2"),
-		url("/assets/fonts/outfit/outfit-variable-font.woff") format("woff"),
-		url("/assets/fonts/outfit/outfit-variable-font.ttf") format("truetype");
+	src: url("../fonts/outfit/outfit-variable-font.woff2") format("woff2"),
+		url("../fonts/outfit/outfit-variable-font.woff") format("woff"),
+		url("../fonts/outfit/outfit-variable-font.ttf") format("truetype");
 	font-weight: 400 700;
 }
 

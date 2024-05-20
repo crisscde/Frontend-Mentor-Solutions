@@ -1,9 +1,8 @@
 @font-face {
 	font-family: "Young serif";
-	src: url("/assets/fonts/young-serif/young-serif-regular.woff2")
-			format("woof2"),
-		url("/assets/fonts/young-serif/young-serif-regular.woff") format("woff"),
-		url("/assets/fonts/young-serif/young-serif-regular.ttf") format("truetype");
+	src: url("../fonts/young-serif/young-serif-regular.woff2") format("woof2"),
+		url("../fonts/young-serif/young-serif-regular.woff") format("woff"),
+		url("../fonts/young-serif/young-serif-regular.ttf") format("truetype");
 	font-weight: 400;
 }
 
